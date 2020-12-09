@@ -1,32 +1,26 @@
-### Hi there My name is __Kelvin Halx__ 👋
 
-<!--
-**KelvinHalx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Kelvin Halx!! 👋
 
-Here are some ideas to get you started:
+|:heart: Learning | :yellow_heart: Dancing | :blue_heart: Programming|
+|:---:|:---:|:---:|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Student at Laikipia University Bsc. Computer Science 
 
-🔭 I’m currently working on Software development on buliding UIs Apis and Database management.
+- 🔭 I’m currently learning Python(Flask, Django ) and Android
+- 🌱 I’m currently focusing on API`s and Bots
+- 👯 I’m looking to collaborate on projects involving computer vision, machine learning
+- 📫 How to reach me: [!MyPortfolio](https://kelvinndungu.netlify.app/)
 
-I’m currently learning Python for Data science which include its libraries ie
-	[ Pandas,Numpy,Matplotlip ,Seaborn,Torch,Pytorch ]
-I do web development using Flask micro flame work for Backend and Apis using Postgress Database and nosql Databases
-
-For My frontend I am currently polishing On My React.
-
-👯 I’m looking to collaborate on Data science projects That can solve real word problem or for bussiness Insights ,Building Apis to perfect my skills
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=KelvinHalx&show_icons=true) -->
+![KelvinHalx github stats](https://github-readme-stats.vercel.app/api/?username=KelvinHalx&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-![KelvinHalx github stats](https://github-readme-stats.vercel.app/api?username=KelvinHalx&show_icons=true&hide_border=true)
+Current Lifestyle:
+
+|:sleeping: Sleep|:pizza: Eat|:computer: Code|:repeat: Repeat|
+|:---:|:---:|:---:|:---:|
+
+## :climbing_man: LOT TO LEARN!!!
 
 📫 How to reach me:
 
