@@ -1,7 +1,7 @@
 
 ### Hi, I'm Kelvin Halx!! 👋
 
-|:heart: Learning | :yellow_heart: Dancing | :blue_heart: Programming|
+|:heart: Learning | :yellow_heart: Gaming| :blue_heart: Programming|
 |:---:|:---:|:---:|
 
 Student at Laikipia University Bsc. Computer Science 
