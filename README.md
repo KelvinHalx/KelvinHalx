@@ -24,7 +24,7 @@ Current Lifestyle:
 
 📫 How to reach me:
 
-Twitter--[@KelvinHalx](https://twitter.com/Dev_Halx).
+Twitter--[@KDev_Halx](https://twitter.com/Dev_Halx).
 
 E-mail--[kelvinwainaina03@gmail.comcom](kelvinwainaina03@gmail.com).
 
