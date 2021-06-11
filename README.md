@@ -6,8 +6,8 @@
 
 Student at Laikipia University Bsc. Computer Science 
 
-- 🔭 I’m currently learning Python(Flask, Django ) and Android
-- 🌱 I’m currently focusing on API`s and Bots
+- 🔭 I’m currently learning Python(Flask, Django ),React and Android
+- 🌱 Currently focusing on API`s and Bots
 - 👯 I’m looking to collaborate on projects involving computer vision, machine learning
 -    https://kelvinndungu.netlify.app/
 
@@ -28,4 +28,4 @@ Twitter--[@Dev_Halx](https://twitter.com/Dev_Halx).
 
 E-mail--[kelvinwainaina03@gmail.comcom](kelvinwainaina03@gmail.com).
 
-Phone [0724829888]
+Phone [+254724829888]
