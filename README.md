@@ -43,9 +43,9 @@ Current Lifestyle:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <!-- Contact me -->
 <p align="center">
-<a href="https://www.linkedin.com/in/kelvinndungu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kelvin%20Ndungu%20Agudelo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/vga_01/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vga_01-blue?style=flat-square&logo=instagram"></a>
-<a href="1881@holbertonschool.com"><img alt="Email" src="https://img.shields.io/badge/Email-1881@holbertonschool.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/kelvinndungu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kelvin%20Ndungu%20Wainaina-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com//kelvin_halx/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vga_01-blue?style=flat-square&logo=instagram"></a>
+<a href="kelvinwainaina03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kelvinwainaina03@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 Twitter--[@Dev_Halx](https://twitter.com/Dev_Halx).
@@ -53,3 +53,5 @@ Twitter--[@Dev_Halx](https://twitter.com/Dev_Halx).
 E-mail--[kelvinwainaina03@gmail.comcom](kelvinwainaina03@gmail.com).
 
 Phone [+254724829888]
+---
+⭐️ From [Kelvin Halx](https://github.com/KelvinHalx) 
