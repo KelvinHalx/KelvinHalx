@@ -4,7 +4,7 @@
 |:heart: Learning | :yellow_heart: Gaming| :blue_heart: Programming|
 |:---:|:---:|:---:|
 
-Student at Laikipia University Bsc. Computer Science 
+ Full stack Software Developer.
 
 - 🔭 I’m currently learning Python(Flask, Django ),React and Android
 - 🌱 Currently focusing on API`s and Bots
