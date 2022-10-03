@@ -6,7 +6,7 @@
 
  Full stack Software Developer.
 
-- 🔭 I’m currently learning Python(Flask, Django ),React and Android
+- 🔭 I’m currently learning Python(Flask, Django ) and React
 - 🌱 Currently focusing on API`s and Bots
 - 👯 I’m looking to collaborate on projects involving computer vision, machine learning
 -    https://kelvinndungu.netlify.app/
