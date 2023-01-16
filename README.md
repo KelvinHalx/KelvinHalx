@@ -27,8 +27,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=KelvinHalx&show_icons=true) -->
-![KelvinHalx github stats](https://github-readme-stats.vercel.app/api/?username=KelvinHalx&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 
 Current Lifestyle:
