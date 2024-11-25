@@ -53,3 +53,5 @@ E-mail--[kelvinwainaina03@gmail.comcom](kelvinwainaina03@gmail.com).
 Phone [+254724829888]
 ---
 ⭐️ From [Kelvin Halx](https://github.com/KelvinHalx) 
+
+[![wakatime](https://wakatime.com/badge/user/d72b26ba-f2dc-4d5f-8d2f-3dc1f95c374f.svg)](https://wakatime.com/@d72b26ba-f2dc-4d5f-8d2f-3dc1f95c374f)
