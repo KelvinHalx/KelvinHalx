@@ -1,4 +1,4 @@
-# 👨‍💻 Kelvin Wainaina N.H. | Building the Future, One Line at a Time 🚀  
+# 👨‍💻 Kelvin N. Wainaina | Building the Future, One Line at a Time 🚀  
 
 Welcome! I’m Kelvin N.H, a **Full-Stack Software Engineer** driven by passion, creativity, and innovation. Whether it’s crafting elegant web solutions, designing intelligent systems, or contributing to impactful collaborations, I strive to push boundaries and create tech that matters.  
 
